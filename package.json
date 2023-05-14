@@ -1,6 +1,6 @@
 {
   "name": "tayronm-pds-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "an api wrapper for pds.tayronm.xyz",
   "main": "index.js",
   "scripts": {
