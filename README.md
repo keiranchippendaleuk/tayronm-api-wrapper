@@ -5,7 +5,7 @@ A Node.js package that provides an API wrapper for the [PDS TayronM](https://pds
 ## Installation
 
 ```
-npm install tayronmpdswrapper
+npm i tayronm-api-wrapper
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ const {
   getAllRadios,
   getRadioById,
   getDominantColor,
-} = require("tayronmpdswrapper");
+} = require("tayronm-api-wrapper");
 
 // Retrieve lyrics for a song
 getLyrics("never gonna give you up", "rick astley")
