@@ -1,0 +1,27 @@
+{
+  "name": "tayronm-pds-wrapper",
+  "version": "1.0.0",
+  "description": "an api wrapper for pds.tayronm.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keiranchippendaleuk/tayronm-pds-wrapper.git"
+  },
+  "keywords": [
+    "api-wrapper",
+    "songlyrics",
+    "songdata"
+  ],
+  "author": "keiran chippendale",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/keiranchippendaleuk/tayronm-pds-wrapper/issues"
+  },
+  "homepage": "https://github.com/keiranchippendaleuk/tayronm-pds-wrapper#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
